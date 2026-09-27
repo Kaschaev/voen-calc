@@ -1,1 +1,12 @@
-
+{
+  "expo": {
+    "name": "Калькулятор ДД",
+    "slug": "voen-calc",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "package": "ru.calculator.voenpay",
+      "versionCode": 1
+    }
+  }
+}
