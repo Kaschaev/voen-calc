@@ -7,6 +7,9 @@
     "android": {
       "package": "ru.calculator.voenpay",
       "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "ru.calculator.voenpay"
     }
   }
 }
